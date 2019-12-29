@@ -39,9 +39,7 @@ function calcRpn($params)
 
             }
             array_push($numeric, $result);
-
         }
-
     }
 
     return $result;

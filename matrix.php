@@ -76,7 +76,6 @@ function printArr($array) {
     }
 }
 
-
 $w  = 8;
 $h = 5;
 $arr = createSpiral($w, $h);
